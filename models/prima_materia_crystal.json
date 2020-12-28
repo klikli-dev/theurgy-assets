@@ -1,8 +1,8 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "theurgy:blocks/prima_materia_crystal",
-		"texture": "theurgy:blocks/prima_materia_crystal"
+		"particle": "theurgy:block/prima_materia_crystal",
+		"texture": "theurgy:block/prima_materia_crystal"
 	},
 	"elements": [
 		{
